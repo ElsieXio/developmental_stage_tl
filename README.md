@@ -5,7 +5,8 @@ Author information
 
 
 Introductory information
-Data file: ERC1_egg_chick_436st.xlsx
+Data file: ERC1_egg_chick_436st.xlsx & mid-parent_mid-off reg_r.xlsx
+
 R-script: ERC1_egg_chick_r.rmd
 
 Description of the data and file structure
